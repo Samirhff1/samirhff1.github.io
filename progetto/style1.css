@@ -1,0 +1,40 @@
+body{
+    background-image: url(https://pixnio.com/free-images/nature-landscapes/sunset/sunset-725x407.jpg);
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+    background-size: 1800px;
+}
+  
+h1{
+    color: rgba(32, 146, 32, 0.616);
+    margin: 20px;
+    font-style: italic;
+}  
+div{
+    height: 30 px;
+    width: 90%;
+    margin-left: 60px;
+    background-color: salmon;
+    border-style: solid;
+    border-width: 2px;
+    border-color: red;
+}
+ 
+li{
+    font-size: 30px ;
+    font-weight: 900;
+    color: #0e407a;
+    margin-left: 90px;
+}
+h3{
+    margin-left: 110px;
+    margin-right: 100px;
+    font-size:25px ;
+    font-weight: 500;
+    color: white;
+}
+h4{
+    font-size: 15px;
+    
+
+}
